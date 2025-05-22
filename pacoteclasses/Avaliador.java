@@ -1,3 +1,4 @@
+package pacoteclasses;
 public class Avaliador {
 
     private String nome;
