@@ -1,6 +1,3 @@
-package classes;
-
-
 public class Avaliador {
 
     private String nome;
