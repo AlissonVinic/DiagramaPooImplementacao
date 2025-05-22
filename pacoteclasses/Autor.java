@@ -1,7 +1,6 @@
 package pacoteclasses;
-
+import java.util.List;
 public class Autor {
-
     private String nome;
     private String endereco;
     private String cpf;

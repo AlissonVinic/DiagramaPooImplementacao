@@ -1,6 +1,5 @@
 package pacoteclasses;
 public class Avaliador {
-
     private String nome;
     private String cpf;
     private String endereco;
